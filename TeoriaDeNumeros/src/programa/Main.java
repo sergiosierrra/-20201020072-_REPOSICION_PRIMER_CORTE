@@ -260,7 +260,7 @@ public class Main extends JFrame {
 					procedimiento = procedimiento + result + " = " + auxB + "*" + a + " + (" + ay2 + ")*" + c + auxS + "\n";
 					if(i==0)
 					{
-						procedimiento= procedimiento + "\nLa convinación resultante es:\n";
+						procedimiento= procedimiento + "\nLa conbinación resultante es:\n";
 						procedimiento= procedimiento + result + " = " + auxB + "*" + a + " + (" + ay2 + ")*" + c + auxS + "\n";
 					}
 					aux = auxB;
@@ -273,7 +273,7 @@ public class Main extends JFrame {
 					procedimiento = procedimiento + result + " = " + auxB + "*" + a + " + (" + ay1 + ")*" + c + auxS + "\n";
 					if(i==0)
 					{
-						procedimiento= procedimiento + "La convinación resultante es:\n";
+						procedimiento= procedimiento + "La conbinación resultante es:\n";
 						procedimiento= procedimiento + result + " = " + auxB + "*" + a + " + (" + ay1 + ")*" + c + auxS + "\n";
 					}
 					aux = auxB;
